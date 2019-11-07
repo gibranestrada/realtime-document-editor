@@ -1,5 +1,5 @@
 const uniqid = require("uniqid");
-const webSocketsServerPort = 3000;
+const webSocketsServerPort = 4000;
 const webSocketServer = require("websocket").server;
 const http = require("http");
 // Spinning the http server and the websocket server.
