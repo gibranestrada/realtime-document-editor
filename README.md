@@ -2,7 +2,7 @@
 
 #Instructions 
 
-Give Glitch.com around 30 seconds for the web app to start up. Open two seperate browser windows/tabs and login in with any username. Start typing and watch the text be updated in real-time on all connected users. To reset the app just log out from all connected users.
+Open two separate browser windows/tabs and login in with any username. Start typing and watch the text be updated in real-time on all connected users. To reset the app just log out from all connected users.
 
 Happy editing!!
 
@@ -17,5 +17,5 @@ To start the client side, inside client directory:
 
 To start the server, inside server directory:
 
-1. Do npm install
-2. Run node index.js
+1. Do `npm install`
+2. Run `node index.js`
