@@ -1,0 +1,41 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "medium-editor": "^5.23.3",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-medium-editor": "^1.8.1",
+    "react-scripts": "^3.2.0",
+    "reactstrap": "^8.1.1",
+    "websocket": "^1.0.30",
+    "redux": "^4.0.4",
+    "react-redux": "^7.1.1",
+    "react-blockies": "^1.4.1",
+    "uniqid": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-react": "^7.6.3",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-config-prettier": "^4.3.0",
+    "prettier": "^1.18.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
