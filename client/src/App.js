@@ -16,7 +16,7 @@ const App = () => {
 
   useEffect(() => {
     const clients = new W3CWebSocket(
-      "wss://ec2-52-90-200-136.compute-1.amazonaws.com:4000"
+      "ws://ec2-52-90-200-136.compute-1.amazonaws.com:4000"
     );
     clients.onopen = () => {
       console.log("WebSocket Client Connected");
