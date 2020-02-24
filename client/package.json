@@ -30,6 +30,7 @@
     "@babel/preset-react": "^7.6.3",
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-prettier": "^4.3.0",
+    "gh-pages": "^2.2.0",
     "prettier": "^1.18.2"
   },
   "browserslist": [
